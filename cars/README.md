@@ -1,4 +1,4 @@
-# Detecção de Placas
+# Detecção de Carros
 <p>
 Algoritmo para detecção de carros.
 </p>
