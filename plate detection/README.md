@@ -4,10 +4,11 @@ Algoritmo para detecção de placas de carros.
 </p>
 
 <p>
-Para a identificar as placas foi utilizado um
+Para identificar as placas foi utilizado um
 classificador pré-treinado e uma imagem baixada
 do Google Imagens para realizar o teste.
 </p>
+
 # Imagem
 
 A imagem que está sendo utilizada no código é:
