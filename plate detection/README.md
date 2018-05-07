@@ -1,6 +1,6 @@
 # Detecção de Placas
 <p>
-Algoritmo para detecção de placas de carro.
+Algoritmo para detecção de placas de carros.
 </p>
 
 <p>
@@ -8,9 +8,9 @@ Para a identificar as placas foi utilizado um
 classificador pré-treinado e uma imagem baixada
 do Google Imagens para realizar o teste.
 </p>
-#Imagem
+# Imagem
 
-A imagem que está sendo utilizada para realizar o estudo é:
+A imagem que está sendo utilizada no código é:
 <p align="center"><img src="https://github.com/jilcimar/computer-vision-opencv/blob/master/plate%20detection/images/car.jpg" width="410px"></p>
 
 LINK: https://i.ytimg.com/vi/N7qaf4K6F8M/maxresdefault.jpg
