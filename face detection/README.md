@@ -32,8 +32,8 @@ Para executar o projeto é necessário ter instalado as seguintes biblioteca:
 ```
 
 # Resultado
-<p align="center"><img src="https://github.com/jilcimar/computer-vision-opencv/blob/master/cars/images/resultcars.png" width="410px"></p>
-<p align="center"><img src="https://github.com/jilcimar/computer-vision-opencv/blob/master/cars/images/resultcars2.png" width="410px"></p>
+<p align="center"><img src="https://github.com/jilcimar/computer-vision-opencv/blob/master/face%20detection/images/result.jpg" width="410px"></p>
+<p align="center"><img src="https://github.com/jilcimar/computer-vision-opencv/blob/master/face%20detection/images/result2.jpg" width="410px"></p>
 
 
 # Autor
